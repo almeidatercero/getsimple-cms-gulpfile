@@ -19,6 +19,10 @@ Info here:
 
 http://gulpjs.com/
 
+Browser sync
+
+Info here:
+https://www.browsersync.io/docs/gulp/
 
 Here is the gulp file that i use:
 
